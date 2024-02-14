@@ -20,7 +20,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Overview',
-            image: './images/location.png',
+            image: 'location.png',
             description: 'The Rail Corridor (or Green Corridor) is an important part of the PCN (Park Connector Network of Singapore), which is 24 km long, flat from Tanjong Pagar in the south to Kranji in the north. It can be divided into three main sections, Central, Southern and Northern.The central stretch of the Rail Corridor(Grass green line~4 km) is the most accessible and walkable part.',
             location: {
                 center: [103.78992, 1.37259],
@@ -47,7 +47,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Theme Journey',
-            image: './images/theme.png',
+            image: 'theme.png',
             description: 'The railway corridor (Central) is divided into four themes (ridgeline, rainforest, kampung garden, bukit timah railway station) for reopening, bringing Singaporeans closer to nature, heritage and leisure.',
             location: {
                 center: [103.77663, 1.34483],
@@ -87,7 +87,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Access Points',
-            image: './images/ap.png',
+            image: 'ap.png',
             description: 'There are many access points into the Rail Corridor. Please refer to the maps below to plan your visit to the Rail Corridor.(Details on the online map)',
             location: {
                 center: [103.77006, 1.35300],
@@ -106,7 +106,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Fast Supply Station: McDonalds Beauty World',
-            image: './images/mc.png',
+            image: 'mc.png',
             description: 'Classic, long-running fast-food chain known for its burgers & fries.Good choice for your long-term hiking along Rail Corridor (central)After your fill of food, continue along the road and cross over the pedestrian bridge.Good view is continuing!',
             location: {
                 center: [103.77538, 1.35809],
